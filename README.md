@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="INSTA.jpg" alt="Profile Banner" width="100%" />
+  <img src="INSTA.jpg" alt="Instagram Banner" style="border: 3px solid #f97316; border-radius: 10px; max-width: 100%; height: auto;" />
 </p>
 
 
