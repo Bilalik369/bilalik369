@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="INSTA.jpg" alt="Profile Banner" width="100%" />
+</p>
+
+
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/bilaliken369) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/bilal-iken-548587332/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bilal11iken@gmail.com) 
