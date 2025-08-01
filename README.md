@@ -19,7 +19,7 @@ const bilal = {
     name: "Bilal Iken",
     role: "Full-Stack Developer",
     location: "Morocco 🇲🇦",
-    Stack: ["MongoDB  ", "Express.js ", "CReact   "Node.js"],
+    stack: ["MongoDB", "Express.js", "React", "Node.js"],
     interests: ["Web Development", "Mobile Apps", "Cloud Computing"],
     currentFocus: "Building scalable applications",
     lifePhilosophy: "Code with passion, debug with patience ⚡"
@@ -144,18 +144,24 @@ const bilal = {
 
 ---
 
-## 💡 Random Dev Quote
+## 🎓 Learning & Growth
+
+<div align="center">
+  <img src="https://your-image-url-here.jpg" alt="Continuous Learning" width="600" style="border-radius: 10px; border: 2px solid #61dafb;"/>
+  <br>
+  <em>"Great minds discuss ideas, average minds discuss events, small minds discuss people."</em>
+</div>
+
+---
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </div>
 
----
-
-## 🎵 Coding Vibes
+## 💡 Random Dev Quote
 
 <div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31k6rlzwxkjf5kf2ck2q5ddguz2i&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </div>
 
 ---
@@ -165,7 +171,7 @@ const bilal = {
   
   ### ⭐ From [Bilalik369](https://github.com/Bilalik369) with ❤️
   
-  ![Visitor Count](https://visitcount.itsvg.in/api?id=Bilalik369&label=Profile%20Views&color=0&icon=5&pretty=true)
+  <img src="https://komarev.com/ghpvc/?username=Bilalik369&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
   
 </div>
 
