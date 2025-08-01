@@ -66,16 +66,19 @@ const bilal: Developer = {
 ### **Frontend Universe**
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
 ### **Backend Power**
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
@@ -94,6 +97,7 @@ const bilal: Developer = {
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
@@ -102,6 +106,36 @@ const bilal: Developer = {
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🌟 **Featured Projects**
+
+<div align="center">
+
+### 🚀 **E-Commerce Platform**
+> Full-stack MERN application with real-time chat and payment integration
+> 
+> **Tech:** React • Node.js • MongoDB • Stripe • Socket.io
+> 
+> [![Live Demo](https://img.shields.io/badge/Live%20Demo-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white)](https://your-demo-link.com) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bilalik369/ecommerce-project)
+
+### 📱 **Task Management App**
+> React Native mobile app with offline capabilities and cloud sync
+> 
+> **Tech:** React Native • Firebase • Redux • Expo
+> 
+> [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bilalik369/task-manager-app)
+
+### 🌐 **Portfolio Website**
+> Modern responsive portfolio with animations and dark mode
+> 
+> **Tech:** Next.js • TypeScript • Framer Motion • TailwindCSS
+> 
+> [![Live Demo](https://img.shields.io/badge/Live%20Demo-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://bilal-iken.vercel.app) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bilalik369/portfolio)
 
 </div>
 
@@ -123,6 +157,29 @@ const bilal: Developer = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+## 📚 **Learning Progress**
+
+<div align="center">
+
+### 🎯 **Current Skills Development**
+
+```text
+Advanced React Patterns    ████████████████████░   95%
+Cloud Architecture        ████████████████░░░░░   80%
+System Design            ████████████░░░░░░░░░   60%
+Rust Programming         ████████░░░░░░░░░░░░░   40%
+Machine Learning         ██████░░░░░░░░░░░░░░░   30%
+```
+
+### 📖 **Currently Reading**
+- 📘 "Clean Architecture" by Robert C. Martin
+- 📗 "Designing Data-Intensive Applications" by Martin Kleppmann
+- 📙 "The Rust Programming Language" by Steve Klabnik
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ## 🏆 **Achievements & Trophies**
 
 <div align="center">
@@ -133,33 +190,46 @@ const bilal: Developer = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🚀 **Current Focus**
+## 🎯 **2025 Goals & Current Focus**
 
 <div align="center">
 
-### 🎯 **What I'm Working On**
+### 🚀 **What I'm Working On**
 
 ```diff
 + 🔥 Mastering MERN Stack Development
-+ ⚡ Building Responsive Web Applications  
-+ 🌟 Learning Advanced JavaScript Patterns
-+ 💡 Contributing to Open Source Projects
-+ 🚀 Exploring Modern Frontend Technologies
++ ⚡ Building Scalable Microservices Architecture
++ 🌟 Contributing to Open Source Projects
++ 💡 Learning System Design Patterns  
++ 🚀 Exploring Web3 & Blockchain Technology
 + 🎨 Improving UI/UX Design Skills
++ ☁️ Advancing Cloud Computing Knowledge
++ 🤖 Diving into AI/ML Integration
 ```
+
+### 📈 **2025 Objectives**
+- [ ] Contribute to 10+ Open Source Projects
+- [ ] Build and Deploy 5 Full-Stack Applications
+- [ ] Learn Rust and Go Programming Languages
+- [ ] Obtain AWS Cloud Practitioner Certification
+- [ ] Write 12 Technical Blog Articles
+- [ ] Mentor 5 Junior Developers
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🎓 **Learning & Growth**
+## ✍️ **Latest Blog Posts**
 
 <div align="center">
-  
-  ### 📚 *"Great minds discuss ideas, average minds discuss events, small minds discuss people."*
-  
-  <img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="300" alt="Learning Animation"/>
-  
+
+<!-- BLOG-POST-LIST:START -->
+- 🚀 [Building Scalable React Applications with Clean Architecture](https://your-blog.com/react-clean-architecture)
+- ⚡ [Optimizing Node.js Performance: Best Practices](https://your-blog.com/nodejs-performance)
+- 🔐 [JWT Authentication in MERN Stack: Complete Guide](https://your-blog.com/jwt-authentication)
+- 🌐 [Deploying Full-Stack Apps to AWS: Step by Step](https://your-blog.com/aws-deployment)
+<!-- BLOG-POST-LIST:END -->
+
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -174,14 +244,48 @@ const bilal: Developer = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🤝 **Let's Connect & Build Something Amazing**
+## 🤝 **Let's Connect & Collaborate**
 
 <div align="center">
 
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/bilaliken369)
+### 💬 **Always Open to Discuss**
+- 🚀 Full-Stack Development
+- 💡 Open Source Contributions  
+- 🎯 Career Growth & Mentorship
+- 🌟 Tech Innovations & Trends
+
+<br>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bilal-iken-548587332/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bilal11iken@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://your-portfolio-url.com)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/bilaliken369)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://bilal-iken.vercel.app)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/bilaliken369)
+
+### 📫 **Quick Contact**
+- 💼 **Professional:** [LinkedIn](https://www.linkedin.com/in/bilal-iken-548587332/)
+- 📧 **Email:** bilal11iken@gmail.com
+- 💬 **Discord:** bilaliken369
+- 🌐 **Website:** [Portfolio](https://bilal-iken.vercel.app)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🎓 **Education & Certifications**
+
+<div align="center">
+
+### 🏫 **Academic Background**
+- 🎓 **Computer Science Engineering** - [University Name]
+- 📚 **Relevant Coursework:** Data Structures, Algorithms, Database Systems, Web Development
+
+### 🏆 **Certifications**
+- ✅ **Meta Front-End Developer Certificate**
+- ✅ **Node.js Application Development (LFW211)**
+- ✅ **MongoDB Associate Developer**
+- 🔄 **AWS Cloud Practitioner** *(In Progress)*
+- 🔄 **Google Cloud Associate Cloud Engineer** *(Planned)*
 
 </div>
 
@@ -194,7 +298,35 @@ const bilal: Developer = {
   ![Profile Views](https://komarev.com/ghpvc/?username=Bilalik369&label=Profile%20Views&color=brightgreen&style=flat-square)
   ![Repos](https://badges.pufler.dev/repos/Bilalik369?style=flat-square&color=blue)
   ![Years](https://badges.pufler.dev/years/Bilalik369?style=flat-square&color=orange)
+  ![Commits](https://badges.pufler.dev/commits/monthly/Bilalik369?style=flat-square&color=red)
   
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🎨 **Fun Facts About Me**
+
+<div align="center">
+
+```javascript
+const funFacts = {
+  🌙 nightOwl: true,
+  ☕ coffeeAddict: "Definitely! 4+ cups/day",
+  🎮 hobbies: ["Gaming", "Reading Tech Blogs", "Contributing to OSS"],
+  🎵 codingMusic: ["Lo-fi", "Electronic", "Instrumental"],
+  🍕 favoriteFood: "Pizza (while debugging)",
+  💭 mindset: "There's always a better solution",
+  🎯 motto: "Code, Learn, Repeat",
+  🌍 languages: ["Arabic", "French", "English"],
+  ⚡ superpower: "Turning coffee into code"
+};
+
+console.log("Always ready for the next coding adventure! 🚀");
+```
+
+### 🎪 **When I'm Not Coding**
+> Exploring new technologies, reading tech articles, contributing to open source, playing chess, and occasionally pretending I understand quantum computing! 😄
+
 </div>
 
 ---
@@ -204,6 +336,8 @@ const bilal: Developer = {
   ### 🌟 *"The best way to predict the future is to create it."* 🌟
   
   **⚡ Keep coding, keep creating, keep innovating! ⚡**
+  
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
   
 </div>
 
