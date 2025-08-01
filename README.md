@@ -38,11 +38,12 @@ const bilal: Developer = {
   role: "Full-Stack Developer",
   location: "Morocco 🇲🇦",
   stack: ["MongoDB", "Express.js", "React", "Node.js"],
-  languages: ["JavaScript", "TypeScript", "C++", "Rust"],
+  languages: ["JavaScript", "TypeScript" ],
   interests: ["Web Dev", "Mobile Apps", "Cloud Computing", "AI/ML"],
-  currentlyLearning: "Next.js 14 & Microservices Architecture",
+  currentlyLearning: "Microservices Architecture",
   quote: "Code with passion, debug with patience ⚡"
 };
+
 ```
 
 <br>
