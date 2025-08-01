@@ -19,7 +19,7 @@ const bilal = {
     name: "Bilal Iken",
     role: "Full-Stack Developer",
     location: "Morocco 🇲🇦",
-    languages: ["JavaScript", "TypeScript", "C++", "Rust"],
+    Stack: ["MongoDB  ", "Express.js ", "CReact   "Node.js"],
     interests: ["Web Development", "Mobile Apps", "Cloud Computing"],
     currentFocus: "Building scalable applications",
     lifePhilosophy: "Code with passion, debug with patience ⚡"
