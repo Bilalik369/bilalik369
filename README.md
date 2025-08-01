@@ -1,1 +1,176 @@
-# 👨‍💻 Bilal Iken | Full-Stack Developer & Innovation Enthusiast <div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Welcome+to+my+Digital+Universe+🌌;Full-Stack+Developer+🚀;Problem+Solver+%26+Code+Craftsman+⚡;Building+Tomorrow's+Solutions+Today+💫" alt="Typing SVG" /> </div> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Code%20•%20Create%20•%20Innovate&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/> </div> --- ## 🎯 About Me <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"/> ```javascript const bilal = { name: "Bilal Iken", role: "Full-Stack Developer", location: "Morocco 🇲🇦", stack: ["MongoDB", "Express.js", "React", "Node.js"], interests: ["Web Development", "Mobile Apps", "Cloud Computing"], currentFocus: "Building scalable applications", lifePhilosophy: "Code with passion, debug with patience ⚡" }; ``` ### 💭 *Philosophy* > *"Programming isn't just about telling computers what to do; it's about teaching ourselves how to think."* > *"في عالم البرمجة، نبني باستمرار على جهود المجتمعات المفتوحة، حيث يقف GitHub كمكتبة أفكار ترفعنا نحو آفاق جديدة من الابتكار والتعاون."* --- ## 🛠️ Tech Arsenal <details open> <summary><b>🎨 Frontend Magic</b></summary> <br> ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) </details> <details open> <summary><b>⚙️ Backend Power</b></summary> <br> ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) </details> <details open> <summary><b>🏗️ System & Tools</b></summary> <br> ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) </details> <details open> <summary><b>☁️ Cloud & Deployment</b></summary> <br> ![Google Cloud](https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) </details> --- ## 📊 GitHub Analytics <div align="center"> <img height="180px" src="https://github-readme-stats.vercel.app/api?username=Bilalik369&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" /> <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bilalik369&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" /> </div> <div align="center"> <img src="https://github-readme-streak-stats.vercel.app/?user=Bilalik369&theme=tokyonight&hide_border=true" /> </div> <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bilalik369&theme=tokyo-night&hide_border=true&area=true" /> </div> --- ## 🏆 GitHub Achievements <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Bilalik369&theme=darkhub&no-frame=true&margin-w=15&margin-h=15&column=7" /> </div> --- ## 🚀 Current Projects & Focus <div align="center"> ```diff + 🔥 Building next-generation web applications + 🌟 Exploring advanced React patterns & performance optimization + 🎯 Mastering cloud architecture & microservices + 💡 Contributing to open-source projects + 🚀 Learning cutting-edge technologies ``` </div> --- ## 🤝 Let's Connect & Collaborate <div align="center"> [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/bilaliken369) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bilal-iken-548587332/) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bilal11iken@gmail.com) </div> --- ## 🎓 Learning & Growth <div align="center"> ### 🌟 *"The journey of a thousand miles begins with a single step"* <img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" alt="Learning Animation" width="400"/> </div> <div align="center"> ### 📚 **Current Learning Path** | 🎯 **Focus Area** | 📈 **Progress** | 🔥 **Status** | |:---:|:---:|:---:| | **Rust Programming** | ![80%](https://progress-bar.dev/80?color=orange) | 🚀 Advanced | | **Web3 & Blockchain** | ![65%](https://progress-bar.dev/65?color=blue) | 📖 Learning | | **System Design** | ![90%](https://progress-bar.dev/90?color=green) | ⭐ Expert | | **Cloud Architecture** | ![75%](https://progress-bar.dev/75?color=purple) | 🔥 Intermediate | | **AI/ML Integration** | ![45%](https://progress-bar.dev/45?color=red) | 🌱 Beginner | </div> <div align="center"> ### 🏆 **2024 Learning Goals** ```yaml Goals: - Master Rust for system programming 🦀 - Build 5 full-stack projects 🚀 - Contribute to 10 open-source repos 💡 - Learn advanced DevOps practices ☁️ - Explore AI/ML integration in web apps 🤖 - Achieve AWS Solutions Architect certification 📜 ``` </div> <div align="center"> ### 💭 **Learning Philosophy** > *"Great minds discuss ideas, average minds discuss events, small minds discuss people."* > > *"التعلم رحلة لا تنتهي، وكل خطأ هو درس جديد يقربنا من الإتقان"* <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" alt="Coding" width="300"/> </div> --- ## 🎵 Currently Vibing To <div align="center"> ### 🎧 **My Coding Soundtrack** <img src="https://media.giphy.com/media/l2JhxfHWMBWuDMIpi/giphy.gif" alt="Music Vibes" width="200"/> ```javascript const currentVibes = { genre: "Lo-fi Hip Hop 🎵", mood: "Deep Focus Mode 🧠", playlist: "Coding in the Zone", volume: "Perfect for debugging 🐛", effect: "Productivity +100% 📈" }; ``` ### 🎼 **Top Coding Playlists** | 🎵 **Mood** | 🎧 **Playlist** | ⚡ **Energy Level** | |:---:|:---:|:---:| | 🌙 **Night Coding** | Lo-fi Beats | ![Chill](https://img.shields.io/badge/Chill-85%25-blue) | | 🔥 **Debug Mode** | Electronic Focus | ![High](https://img.shields.io/badge/High-95%25-red) | | 🌅 **Morning Flow** | Ambient Sounds | ![Medium](https://img.shields.io/badge/Medium-70%25-green) | | 🚀 **Deploy Day** | Upbeat Techno | ![Max](https://img.shields.io/badge/Max-100%25-orange) | <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" /> ### 🎶 **Fun Music Facts** - 🎵 **Favorite coding genre:** Lo-fi Hip Hop & Synthwave - 🎧 **Daily listening:** 6+ hours while coding - 🎼 **Productivity boost:** 40% increase with the right playlist - 🎤 **Secret talent:** Can debug to the rhythm of any song </div> --- ## 💡 Random Dev Quote <div align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" /> </div> --- ## 🌟 Fun Facts About Me <div align="center"> ```typescript interface BilalFacts { coffeeConsumption: "5+ cups per day ☕"; debuggingSkill: "Enhanced by 200% with music 🎵"; favoriteTime: "3 AM coding sessions 🌙"; superpower: "Can spot missing semicolons from miles away 👀"; weakness: "Merge conflicts on Monday mornings 😅"; dreamProject: "Building the next unicorn startup 🦄"; } ``` </div> --- <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/> ### ⭐ From [Bilalik369](https://github.com/Bilalik369) with ❤️ <img src="https://komarev.com/ghpvc/?username=Bilalik369&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> </div> --- <div align="center"> *"The best way to predict the future is to create it." - Keep coding, keep creating! 🚀* **"المستقبل يُبنى بالكود، والأحلام تتحقق بالمثابرة"** <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" alt="Coding Love" width="60"/> </div> ```
+# 👨‍💻 Bilal Iken | Full-Stack Developer & Innovation Enthusiast
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Welcome+to+my+Digital+Universe+%F0%9F%8C%8C;Full-Stack+Developer+%F0%9F%9A%80;Problem+Solver+%26+Code+Craftsman+%E2%9A%A1;Building+Tomorrow's+Solutions+Today+%F0%9F%92%AB" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Code%20•%20Create%20•%20Innovate&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
+</div>
+
+---
+
+## 🎯 About Me
+
+<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"/>
+
+```javascript
+const bilal = {
+    name: "Bilal Iken",
+    role: "Full-Stack Developer",
+    location: "Morocco 🇲🇦",
+    stack: ["MongoDB", "Express.js", "React", "Node.js"],
+    interests: ["Web Development", "Mobile Apps", "Cloud Computing"],
+    currentFocus: "Building scalable applications",
+    lifePhilosophy: "Code with passion, debug with patience ⚡"
+};
+```
+
+### 💭 *Philosophy*
+> *"Programming isn't just about telling computers what to do; it's about teaching ourselves how to think."*
+
+> *"في عالم البرمجة، نبني باستمرار على جهود المجتمعات المفتوحة، حيث يقف GitHub كمكتبة أفكار ترفعنا نحو آفاق جديدة من الابتكار والتعاون."*
+
+---
+
+## 🛠️ Tech Arsenal
+
+<details open>
+<summary><b>🎨 Frontend Magic</b></summary>
+<br>
+
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>⚙️ Backend Power</b></summary>
+<br>
+
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>🏗️ System & Tools</b></summary>
+<br>
+
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>☁️ Cloud & Deployment</b></summary>
+<br>
+
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
+
+</details>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=Bilalik369&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bilalik369&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.vercel.app/?user=Bilalik369&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bilalik369&theme=tokyo-night&hide_border=true&area=true" />
+</div>
+
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Bilalik369&theme=darkhub&no-frame=true&margin-w=15&margin-h=15&column=7" />
+</div>
+
+---
+
+## 🚀 Current Projects & Focus
+
+<div align="center">
+
+```diff
++ 🔥 Building next-generation web applications
++ 🌟 Exploring advanced React patterns & performance optimization  
++ 🎯 Mastering cloud architecture & microservices
++ 💡 Contributing to open-source projects
++ 🚀 Learning cutting-edge technologies
+```
+
+</div>
+
+---
+
+## 🤝 Let's Connect & Collaborate
+
+<div align="center">
+  
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/bilaliken369)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bilal-iken-548587332/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bilal11iken@gmail.com)
+
+</div>
+
+---
+
+## 🎓 Learning & Growth
+
+<div align="center">
+  <img src="https://your-image-url-here.jpg" alt="Continuous Learning" width="600" style="border-radius: 10px; border: 2px solid #61dafb;"/>
+  <br>
+  <em>"Great minds discuss ideas, average minds discuss events, small minds discuss people."</em>
+</div>
+
+---
+
+## 💡 Random Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+  
+  ### ⭐ From [Bilalik369](https://github.com/Bilalik369) with ❤️
+  
+  <img src="https://komarev.com/ghpvc/?username=Bilalik369&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  
+</div>
+
+---
+
+*"The best way to predict the future is to create it." - Keep coding, keep creating! 🚀*
