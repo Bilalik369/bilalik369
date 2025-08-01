@@ -1,178 +1,206 @@
-# 👨‍💻 Bilal Iken | Full-Stack Developer & Innovation Enthusiast
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Bilal%20Iken&fontSize=90&fontAlignY=35&animation=twinkling&fontColor=gradient" />
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Welcome+to+my+Digital+Universe+%F0%9F%8C%8C;Full-Stack+Developer+%F0%9F%9A%80;Problem+Solver+%26+Code+Craftsman+%E2%9A%A1;Building+Tomorrow's+Solutions+Today+%F0%9F%92%AB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=35&duration=4000&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=800&height=100&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Full-Stack+Developer;%F0%9F%9A%80+MERN+Stack+Expert;%E2%9A%A1+Problem+Solver;%F0%9F%8C%8D+Open+Source+Contributor;%F0%9F%94%A5+Code+Craftsman" alt="Typing SVG" />
 </div>
 
+<br>
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Code%20•%20Create%20•%20Innovate&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
+  
+  [![GitHub followers](https://img.shields.io/github/followers/Bilalik369?label=Followers&style=social)](https://github.com/Bilalik369)
+  [![GitHub stars](https://img.shields.io/github/stars/Bilalik369?label=Stars&style=social)](https://github.com/Bilalik369)
+  
 </div>
 
 ---
 
-## 🎯 About Me
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"/>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> **About Me**
 
-```javascript
-const bilal = {
-    name: "Bilal Iken",
-    role: "Full-Stack Developer",
-    location: "Morocco 🇲🇦",
-    stack: ["MongoDB", "Express.js", "React", "Node.js"],
-    interests: ["Web Development", "Mobile Apps", "Cloud Computing"],
-    currentFocus: "Building scalable applications",
-    lifePhilosophy: "Code with passion, debug with patience ⚡"
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966">
+
+```typescript
+interface Developer {
+  name: string;
+  role: string;
+  location: string;
+  stack: string[];
+  languages: string[];
+  interests: string[];
+  currentlyLearning: string;
+  quote: string;
+}
+
+const bilal: Developer = {
+  name: "Bilal Iken",
+  role: "Full-Stack Developer",
+  location: "Morocco 🇲🇦",
+  stack: ["MongoDB", "Express.js", "React", "Node.js"],
+  languages: ["JavaScript", "TypeScript", "C++", "Rust"],
+  interests: ["Web Dev", "Mobile Apps", "Cloud Computing", "AI/ML"],
+  currentlyLearning: "Next.js 14 & Microservices Architecture",
+  quote: "Code with passion, debug with patience ⚡"
 };
 ```
 
-### 💭 *Philosophy*
-> *"Programming isn't just about telling computers what to do; it's about teaching ourselves how to think."*
-
-> *"في عالم البرمجة، نبني باستمرار على جهود المجتمعات المفتوحة، حيث يقف GitHub كمكتبة أفكار ترفعنا نحو آفاق جديدة من الابتكار والتعاون."*
-
----
-
-## 🛠️ Tech Arsenal
-
-<details open>
-<summary><b>🎨 Frontend Magic</b></summary>
 <br>
 
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+### 🎯 **My Philosophy**
 
-</details>
+<div align="center">
 
-<details open>
-<summary><b>⚙️ Backend Power</b></summary>
-<br>
+> **"Programming isn't just about telling computers what to do; it's about teaching ourselves how to think."**
 
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+> **"في عالم البرمجة، نبني باستمرار على جهود المجتمعات المفتوحة، حيث يقف GitHub كمكتبة أفكار ترفعنا نحو آفاق جديدة من الابتكار والتعاون."**
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🛠️ **Tech Stack & Skills**
+
+<div align="center">
+
+### **Frontend Universe**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
+### **Backend Power**
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
 
-</details>
+### **Mobile & Cross-Platform**
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
 
-<details open>
-<summary><b>🏗️ System & Tools</b></summary>
-<br>
+### **System Programming**
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+### **Cloud & DevOps**
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
-</details>
-
-<details open>
-<summary><b>☁️ Cloud & Deployment</b></summary>
-<br>
-
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
-
-</details>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=Bilalik369&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bilalik369&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.vercel.app/?user=Bilalik369&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bilalik369&theme=tokyo-night&hide_border=true&area=true" />
-</div>
-
----
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Bilalik369&theme=darkhub&no-frame=true&margin-w=15&margin-h=15&column=7" />
-</div>
-
----
-
-## 🚀 Current Projects & Focus
-
-<div align="center">
-
-```diff
-+ 🔥 Building next-generation web applications
-+ 🌟 Exploring advanced React patterns & performance optimization  
-+ 🎯 Mastering cloud architecture & microservices
-+ 💡 Contributing to open-source projects
-+ 🚀 Learning cutting-edge technologies
-```
+### **Tools & Productivity**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🤝 Let's Connect & Collaborate
+## 📊 **GitHub Analytics**
 
 <div align="center">
   
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/bilaliken369)
+  ![Bilal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bilalik369&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF)
+  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bilalik369&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF)
+  
+  ![GitHub Streak](https://github-readme-streak-stats.vercel.app/?user=Bilalik369&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakLabel=F8D866)
+  
+  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Bilalik369&custom_title=Bilal's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=F8D866&line=F85D7F&point=FFFFFF&area=true&hide_border=true)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🏆 **Achievements & Trophies**
+
+<div align="center">
+  
+  ![trophy](https://github-profile-trophy.vercel.app/?username=Bilalik369&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1)
+  
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🚀 **Current Focus**
+
+<div align="center">
+
+| 🎯 **Goal** | 📈 **Status** | 🔥 **Priority** |
+|-------------|---------------|-----------------|
+| **Next.js 14 Mastery** | `████████░░` 80% | 🔥🔥🔥 |
+| **Microservices Architecture** | `██████░░░░` 60% | 🔥🔥 |
+| **DevOps & CI/CD** | `████░░░░░░` 40% | 🔥🔥 |
+| **Open Source Contributions** | `███████░░░` 70% | 🔥🔥🔥 |
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🎓 **Learning & Growth**
+
+<div align="center">
+  <img src="https://your-image-url-here.jpg" alt="Continuous Learning Journey" width="80%" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);"/>
+  
+  ### *"Great minds discuss ideas, average minds discuss events, small minds discuss people."*
+  
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 💡 **Random Dev Wisdom**
+
+<div align="center">
+  
+  ![Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+  
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🤝 **Let's Connect & Build Something Amazing**
+
+<div align="center">
+
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/bilaliken369)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bilal-iken-548587332/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bilal11iken@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bilal11iken@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://your-portfolio-url.com)
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🎓 Learning & Growth
-
-
+## 📈 **Profile Analytics**
 
 <div align="center">
-  <img src="https://your-image-url-here.jpg" alt="Continuous Learning" width="600" style="border-radius: 10px; border: 2px solid #61dafb;"/>
-  <br>
-  <em>"Great minds discuss ideas, average minds discuss events, small minds discuss people."</em>
-</div>
-
----
-
-## 💡 Random Dev Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
   
-  ### ⭐ From [Bilalik369](https://github.com/Bilalik369) with ❤️
-  
-  <img src="https://komarev.com/ghpvc/?username=Bilalik369&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  ![Profile Views](https://komarev.com/ghpvc/?username=Bilalik369&label=Profile%20Views&color=brightgreen&style=flat-square)
+  ![Repos](https://badges.pufler.dev/repos/Bilalik369?style=flat-square&color=blue)
+  ![Years](https://badges.pufler.dev/years/Bilalik369?style=flat-square&color=orange)
   
 </div>
 
 ---
 
-*"The best way to predict the future is to create it." - Keep coding, keep creating! 🚀*
+<div align="center">
+  
+  ### 🌟 *"The best way to predict the future is to create it."* 🌟
+  
+  **⚡ Keep coding, keep creating, keep innovating! ⚡**
+  
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&animation=twinkling" />
