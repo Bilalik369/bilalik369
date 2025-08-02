@@ -175,7 +175,7 @@ const bilal: Developer = {
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🤝 **Let's Connect & Build Something Amazing**
-
+ 
 <div align="center">
 
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/bilaliken369)
