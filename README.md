@@ -1,6 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Bilal%20Iken&fontSize=90&fontAlignY=35&animation=twinkling&fontColor=gradient" />
 
-<div align="center"> 
+<div align="center">  
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=35&duration=4000&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=800&height=100&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Full-Stack+Developer;%F0%9F%9A%80+MERN+Stack+Expert;%E2%9A%A1+Problem+Solver;%F0%9F%8C%8D+Open+Source+Contributor;%F0%9F%94%A5+Code+Craftsman" alt="Typing SVG" />
 </div>
   
