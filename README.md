@@ -27,5 +27,5 @@ const bilal = {
   role: "Full-Stack Developer",
   location: "Morocco 🇲🇦",
   stack: ["MongoDB", "Express.js", "React", "Node.js"],
-  currentlyLearning: "Advanced React Patterns & Cloud Architecture",
+currentlyLearning: "Microservices with Node.js & Docker",
 };
