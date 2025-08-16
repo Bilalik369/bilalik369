@@ -4,6 +4,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;MERN+Stack+Expert;Problem+Solver;Open+Source+Contributor)](https://git.io/typing-svg)
 
+![Profile Views](https://komarev.com/ghpvc/?username=Bilalik369&label=Profile%20Views&color=brightgreen&style=flat-square)
+
 </div>
 
 ---
